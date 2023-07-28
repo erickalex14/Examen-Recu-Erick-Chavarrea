@@ -1,0 +1,15 @@
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.AssemblyInfo.cs
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.exe
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.deps.json
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.runtimeconfig.json
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.dll
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\bin\Debug\net7.0\Nueva carpeta.pdb
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.dll
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\refint\Nueva carpeta.dll
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.pdb
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\Nueva carpeta.genruntimeconfig.cache
+C:\Users\erick\Desktop\R3s1d3nt4 R3m4k3. elamigos\Nueva carpeta\obj\Debug\net7.0\ref\Nueva carpeta.dll
